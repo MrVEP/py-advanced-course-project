@@ -1,0 +1,6 @@
+vk_api
+sqlalchemy
+psycopg2
+datetime
+python-dateutil
+time
